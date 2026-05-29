@@ -5,7 +5,7 @@ export function BrandMarquee() {
   const row = [...partnerLogos, ...partnerLogos];
   return (
     <section className="w-full bg-black">
-      {/* N / X texture panels */}
+      {/* V / Z texture panels */}
       <div className="grid h-[42svh] min-h-[280px] grid-cols-2">
         <div className="relative overflow-hidden">
           <Image
