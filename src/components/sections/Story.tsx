@@ -46,7 +46,7 @@ export function Story() {
             design, sample and ship seasonal collections.
           </p>
           <div className="mt-7 flex flex-col gap-3 border-t border-black/15 pt-5">
-            <MarkerLink>INSIDE NITEX</MarkerLink>
+            <MarkerLink>INSIDE VYZEE</MarkerLink>
             <MarkerLink>REAL LIFE B2B SHOPPING</MarkerLink>
             <MarkerLink>ON DEMAND MANUFACTURING</MarkerLink>
           </div>
