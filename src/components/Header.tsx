@@ -34,7 +34,7 @@ export function Header() {
             aria-hidden="true"
           />
           <span className="relative flex items-center justify-between px-4 py-2.5 font-fragment text-[11px] md:text-xs mix-blend-difference text-white">
-            <span>MEET NITEX</span>
+            <span>MEET VYZEE</span>
             <span>[0{section}]</span>
           </span>
         </div>
