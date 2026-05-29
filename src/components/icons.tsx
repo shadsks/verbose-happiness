@@ -15,7 +15,7 @@ export function NitexLogo({
     >
       <SlashMark className="h-[0.7em] w-[0.95em]" />
       <span className="font-display text-[1.05em] leading-none tracking-[-0.04em]">
-        NITEX
+        VYZEE
       </span>
     </span>
   );
