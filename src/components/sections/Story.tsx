@@ -18,14 +18,14 @@ export function Story() {
 
         {/* eyebrow */}
         <div className="absolute left-4 top-24 sm:left-8">
-          <SectionLabel num="1" title="OUR STORY" dark />
+          <SectionLabel num="1" title="OUR MISSION" dark />
         </div>
 
         {/* giant display heading */}
         <div className="absolute inset-x-0 top-1/2 -translate-y-1/2 px-4 sm:px-8">
           <RevealLines
             className="font-display display-lg text-black"
-            lines={["FROM VISION", "TO GLOBAL", "IMPACT"]}
+            lines={["FROM MISSED", "LEADS TO", "BOOKINGS"]}
           />
         </div>
 
@@ -35,20 +35,17 @@ export function Story() {
           className="absolute bottom-6 right-4 sm:right-8 w-[min(92vw,30rem)] bg-lime text-black p-7 sm:p-9"
         >
           <p className="text-sm sm:text-[15px] leading-relaxed">
-            Founded with a bold mission to reinvent the fashion supply chain,
-            NITEX has rapidly transformed into a multi-continent powerhouse.
+            Vyzee helps local businesses turn inquiry gaps into revenue growth
+            with Websites, automation, SEO, and marketing systems built for daily operations.
           </p>
           <p className="mt-4 text-sm sm:text-[15px] leading-relaxed">
-            Today, our cross-functional teams work seamlessly from Dhaka to
-            London, Barcelona and New York, backed by a network of certified
-            factories in Bangladesh. Through proprietary tech, we deliver
-            creative excellence, speed and transparency—redefining how brands
-            design, sample and ship seasonal collections.
+            We focus first on dental clinics and medspas across Metro Manila,
+            then expand into F&B and wellness verticals. Our promise is simple: improve inquiry-to-booking conversion by 30% in 90 days, or we keep working until we hit it.
           </p>
           <div className="mt-7 flex flex-col gap-3 border-t border-black/15 pt-5">
             <MarkerLink>INSIDE VYZEE</MarkerLink>
-            <MarkerLink>REAL LIFE B2B SHOPPING</MarkerLink>
-            <MarkerLink>ON DEMAND MANUFACTURING</MarkerLink>
+            <MarkerLink>WORKFLOW AUTOMATIONS</MarkerLink>
+            <MarkerLink>GROWTH BUNDLES</MarkerLink>
           </div>
         </Reveal>
       </div>
