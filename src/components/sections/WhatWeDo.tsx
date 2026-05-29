@@ -29,15 +29,13 @@ export function WhatWeDo() {
       <div className="mt-10 grid gap-10 lg:grid-cols-[1.2fr_1fr] lg:items-end">
         <RevealLines
           className="font-display display-lg text-white"
-          lines={["THE NEW", "STANDARD IN", "FASHION", "SUPPLY"]}
+          lines={["THE NEW", "STANDARD IN", "LOCAL", "GROWTH"]}
         />
         <Reveal>
           <p className="max-w-md text-[15px] leading-relaxed text-white/80">
-            As the design-driven engine for today&apos;s agile brands, NITEX
-            unites trend forecasting, in-house prototyping, fit validation and
-            global delivery into one seamless workflow. We focus on trending
-            design, instead of the trendiest design, to help our brand partners
-            succeed.
+            Vyzee builds AI websites, CRM pipelines, follow-up automations,
+            review systems, and social content into one practical growth stack
+            for companies and local service businesses.
           </p>
         </Reveal>
       </div>
@@ -46,12 +44,12 @@ export function WhatWeDo() {
         <MediaPanel
           src="/images/mux-2.webp"
           alt="NITEX Design Lab B2B shopping interface"
-          label="REAL LIFE B2B SHOPPING"
+          label="WORKFLOW AUTOMATIONS"
         />
         <MediaPanel
           src="/images/mux-1.webp"
           alt="On-demand manufacturing — thread spools on a production line"
-          label="ON DEMAND MANUFACTURING"
+          label="GROWTH BUNDLES"
         />
       </div>
     </section>
