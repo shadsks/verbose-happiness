@@ -32,12 +32,12 @@ export function HowWeHelp() {
         ))}
         <Reveal className="flex flex-col justify-center gap-5 border-b border-white/15 py-9 pr-6 sm:pr-10">
           <p className="text-sm leading-relaxed text-white/80">
-            See how leading brands launch faster with flexible MOQs, full-service
+            See how leading brands launch faster with specialized content planing, full-service
             support and a seamless end-to-end process—from trend forecasting to
             final delivery.
           </p>
           <div className="inline-block w-fit bg-lime px-4 py-3">
-            <MarkerLink>MAKING BRANDS SUCCEED</MarkerLink>
+            <MarkerLink>MAKING BUSINESSES SUCCEED</MarkerLink>
           </div>
         </Reveal>
       </div>
