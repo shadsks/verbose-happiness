@@ -25,12 +25,12 @@ export function Footer() {
       {/* giant wordmark */}
       <div className="pointer-events-none mt-16 overflow-hidden">
         <span className="font-display block text-lime leading-[0.8] text-[26vw]">
-          NITEX
+          VYZEE
         </span>
       </div>
 
       <div className="mt-10 flex flex-col gap-4 border-t border-white/15 pt-6 font-fragment text-[11px] text-white/55 sm:flex-row sm:items-center sm:justify-between">
-        <span>© 2025 NITEX INC. ALL RIGHTS RESERVED.</span>
+        <span>© 2026 VYZEE SOLUTIONS INC. ALL RIGHTS RESERVED.</span>
         <div className="flex flex-wrap items-center gap-6">
           <a href="#" className="hover:text-lime transition-colors">
             PRIVACY POLICY
