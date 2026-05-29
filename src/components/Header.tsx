@@ -26,7 +26,7 @@ export function Header() {
       </a>
 
       <div className="flex items-stretch gap-2 sm:gap-3">
-        {/* MEET NITEX + scroll progress bar */}
+        {/* MEET VYZEE + scroll progress bar */}
         <div className="relative hidden sm:block w-[260px] md:w-[360px] overflow-hidden border border-white/40 bg-black/30 backdrop-blur-sm">
           <span
             className="absolute inset-y-0 left-0 bg-lime transition-[width] duration-150 ease-out"
