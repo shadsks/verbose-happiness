@@ -1,6 +1,6 @@
 import { cn } from "@/lib/utils";
 
-/** The NITEX double-slash mark + wordmark used in the header/footer. */
+/** The VYZEE double-slash mark + wordmark used in the header/footer. */
 export function NitexLogo({
   className,
   color = "currentColor",
