@@ -1,7 +1,7 @@
 import { Pill } from "@/components/nitex-ui";
 import { SlashMark } from "@/components/icons";
 
-const navLinks = ["JOIN US", "MEET NITEX", "CONTACT", "BLOG", "LOGIN"];
+const navLinks = ["JOIN US", "MEET VYZEE", "CONTACT", "BLOG", "LOGIN"];
 
 export function Footer() {
   return (
