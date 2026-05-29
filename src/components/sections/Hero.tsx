@@ -30,10 +30,10 @@ export function Hero() {
 
       {/* giant V / Z */}
       <span className="font-display pointer-events-none absolute left-[-0.06em] top-1/2 -translate-y-1/2 text-lime leading-none text-[34vw] sm:text-[26vw]">
-        N
+        V
       </span>
       <span className="font-display pointer-events-none absolute right-[-0.06em] top-1/2 -translate-y-1/2 text-lime leading-none text-[34vw] sm:text-[26vw]">
-        X
+        Z
       </span>
 
       {/* center copy */}
