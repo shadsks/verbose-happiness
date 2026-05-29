@@ -16,7 +16,7 @@ export function BrandMarquee() {
             className="object-cover"
           />
           <span className="font-display absolute left-[-0.04em] top-1/2 -translate-y-1/2 text-lime leading-none text-[30vw] sm:text-[20vw]">
-            N
+            V
           </span>
         </div>
         <div className="relative overflow-hidden">
@@ -28,7 +28,7 @@ export function BrandMarquee() {
             className="object-cover"
           />
           <span className="font-display absolute right-[-0.04em] top-1/2 -translate-y-1/2 text-lime leading-none text-[30vw] sm:text-[20vw]">
-            X
+            Z
           </span>
         </div>
       </div>
