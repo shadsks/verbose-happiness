@@ -16,45 +16,45 @@ export const partnerLogos: string[] = [
 export const helpSteps: HelpStep[] = [
   {
     n: "1",
-    title: "CHANGE FIXED COST TO VARIABLE",
-    body: "Skip the fixed salaries. Just pick from Nitex's ready styles and pay only when you order.",
+    title: "TURN MISSED LEADS INTO BOOKINGS",
+    body: "Systemized follow-up, appointment reminders, and missed-call text-back help capture inquiries before they go cold.",
   },
   {
     n: "2",
-    title: "FOCUS ON YOUR BRAND",
-    body: "Free your team to focus on creative works while we handle the backend supply chain.",
+    title: "RUN YOUR BUSINESS, NOT YOUR TECH",
+    body: "We handle websites, CRM setup, content production, automation, reporting, and support so your team stays focused",
   },
   {
     n: "3",
-    title: "SCALE WITH EFFICIENCY",
-    body: "Leverage our vetted factory network to secure better pricing and consistent quality.",
+    title: "PACKAGE YOUR GROWTH CLEARLY",
+    body: "Fixed website, content, and automation packages keep scope clear, delivery fast, and costs predictable.",
   },
   {
     n: "4",
-    title: "MOVE WITH SPEED",
-    body: "React instantly to market shifts with ready-to-shop designs and flexible production.",
+    title: "LAUNCH IN 7 TO 21 DAYS",
+    body: "Choose Starter, Professional, or Premium tracks with structured onboarding and productized delivery.",
   },
   {
     n: "5",
-    title: "DELIVER WITH CONFIDENCE",
-    body: "Our built-in real-time order tracking means you stay in control, even under pressure.",
+    title: "MEASURE WHAT MATTERS",
+    body: "Monthly KPI reports, review automation, and 30/60/90-day check-ins keep growth visible.",
   },
 ];
 
 export const needColumns: NeedColumn[] = [
   {
-    label: "FOR TALENT",
-    body: "Join a purpose-driven startup where human quality, creativity, and cutting-edge tech meet. Help us build global design labs, lead AI innovation and transform how fashion is made.",
+    label: "FOR CLINICS",
+    body: "For dental clinics and medspas ready to improve lead response, online booking, reviews, patient reactivation, and local visibility.",
     cta: "JOIN US",
   },
   {
-    label: "FOR BRANDS",
-    body: "Launch collections faster with flexible MOQs, end-to-end design & production support, and a streamlined workflow—from trend forecasting to final delivery.",
+    label: "FOR MEDSPAS",
+    body: "Launch a polished website, content rhythm, CRM pipeline, and systemized follow-up system with Growth Lite, Pro, or Elite retainers.",
     cta: "SEE HOW",
   },
   {
-    label: "FOR PARTNERS",
-    body: "Collaborate with us to deliver excellence—every step of the way. From design precision to timely production, we work side by side with our vetted partners to raise the bar on quality, transparency, and scale.",
+    label: "FOR F&B OWNERS",
+    body: "For cafes and restaurants that need a clean site, social content, local search basics, reservations, and marketing support without heavy overhead.",
     cta: "PARTNER WITH US",
   },
 ];
