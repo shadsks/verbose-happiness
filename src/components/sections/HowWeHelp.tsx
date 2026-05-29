@@ -9,7 +9,7 @@ export function HowWeHelp() {
       <div className="mt-10">
         <RevealLines
           className="font-display display-lg text-lime"
-          lines={["LAUNCH FASTER.", "OPERATE LEANER.", "SELL SMARTER."]}
+          lines={["BOOK MORE CLIENTS.", "FOLLOW UP FASTER.", "GROW WITH LESS WASTE."]}
         />
       </div>
 
