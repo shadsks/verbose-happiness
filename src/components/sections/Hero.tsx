@@ -28,7 +28,7 @@ export function Hero() {
         </div>
       </div>
 
-      {/* giant N / X */}
+      {/* giant V / Z */}
       <span className="font-display pointer-events-none absolute left-[-0.06em] top-1/2 -translate-y-1/2 text-lime leading-none text-[34vw] sm:text-[26vw]">
         N
       </span>
@@ -39,11 +39,11 @@ export function Hero() {
       {/* center copy */}
       <div className="absolute inset-0 flex flex-col items-center justify-center px-6 text-center">
         <p className="max-w-xl text-balance text-lime text-base sm:text-lg md:text-xl">
-          We power real-time fashion with exclusive, ready-to-buy designs—helping
-          brands move faster, stay on trend, and grow without compromise.
+          We turn missed leads into booked appointments for Metro Manila businesses
+          through websites, automation, SEO, and digital marketing.
         </p>
         <div className="mt-6">
-          <Pill variant="lime">INSIDE NITEX</Pill>
+          <Pill variant="lime">INSIDE VYZEE</Pill>
         </div>
       </div>
     </section>
