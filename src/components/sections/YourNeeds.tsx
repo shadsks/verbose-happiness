@@ -9,7 +9,7 @@ export function YourNeeds() {
       <div className="mt-10">
         <RevealLines
           className="font-display display-lg text-white"
-          lines={["LET'S BUILD THE", "FUTURE OF FASHION,", "TOGETHER"]}
+          lines={["LET’S TURN", "MISSED LEADS", "INTO BOOKINGS"]}
         />
       </div>
 
